@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\JVM\JVM\bin\Debug\JVM.exe.config
+C:\Users\Administrator\source\repos\JVM\JVM\bin\Debug\JVM.exe
+C:\Users\Administrator\source\repos\JVM\JVM\bin\Debug\JVM.pdb
+C:\Users\Administrator\source\repos\JVM\JVM\obj\Debug\JVM.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\JVM\JVM\obj\Debug\JVM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JVM\JVM\obj\Debug\JVM.exe
+C:\Users\Administrator\source\repos\JVM\JVM\obj\Debug\JVM.pdb
